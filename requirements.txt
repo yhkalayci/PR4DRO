@@ -1,0 +1,11 @@
+wilds==2.0.0
+wget==3.2
+torch
+torchvision
+numpy
+tqdm
+pandas
+Pillow
+pynndescent
+scikit-learn
+matplotlib

@@ -1,0 +1,1 @@
+python download_datasets.py --root_dir data --dataset waterbirds
